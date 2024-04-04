@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushil919&label=Profile%20views&color=0e75b6&style=flat" alt="sushil919" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushil919" alt="sushil919" /></a> </p>
-
-- 🔭 I’m currently working on [E - Commerce Web App](https://sushil919.github.io/E_Comm_Site/)
+- 🔭 I’m currently working on [Food Delivery App](https://crave-cart.netlify.app/)
 
 - 🌱 I’m currently learning **React JS**
 
